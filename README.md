@@ -10,3 +10,5 @@ You will need locally installed yt-dlp, ffmpeg and whisper model. Following fold
 - video_Transcriber.py
 - models
 - whisper.cpp
+
+You will also need to change the PROJECT_DIR variable in python script.
