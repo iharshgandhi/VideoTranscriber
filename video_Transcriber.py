@@ -4,7 +4,7 @@ import subprocess
 import yt_dlp
 
 # Set up directories
-PROJECT_DIR = '/Users/harshgandhi/future'
+PROJECT_DIR = '/Users/username/projectdirectory'
 AUDIO_DIR = os.path.join(PROJECT_DIR, 'audio')
 TRANSCRIPTIONS_DIR = os.path.join(PROJECT_DIR, 'transcriptions')
 WHISPER_MODEL = os.path.join(PROJECT_DIR, 'models', 'ggml-base.en.bin')
